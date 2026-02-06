@@ -1,3 +1,6 @@
+
+<img width="1920" height="1020" alt="Screenshot 2026-02-06 101250" src="https://github.com/user-attachments/assets/6b39aea4-0a03-40f4-a779-8f33e513cf17" />
+
 # 🌡️ Temperature Convertor
 
 A simple web-based **Temperature Convertor** built using **HTML, CSS, and JavaScript**.  
