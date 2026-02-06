@@ -54,7 +54,7 @@ It allows users to convert temperatures between **Celsius** and **Fahrenheit** i
 
 cd Temperature-convertor
 
-📌 Future Improvements (Optional)
+## 📌 Future Improvements (Optional)
 
 Input validation for empty or invalid values
 
@@ -64,7 +64,7 @@ Better UI design
 
 Dark mode
 
-🙌 Author
+## 🙌 Author
 
 Kishan Kumar
 
