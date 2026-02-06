@@ -51,21 +51,21 @@ It allows users to convert temperatures between **Celsius** and **Fahrenheit** i
  ```bash
  git clone https://github.com/kishangithubkumar/Temperature-convertor.git
 
-
 cd Temperature-convertor
 
-## 📌 Future Improvements (Optional)
 
-Input validation for empty or invalid values
 
-Add Kelvin conversion
+** ## Future Improvements
 
-Better UI design
-
-Dark mode
+- **Input validation for empty or invalid values**
+- **Add Kelvin conversion**
+- **Better UI design**
+- **Dark mode**
 
 ## 🙌 Author
 
-Kishan Kumar
+**Kishan Kumar**
+
+
 
 If you like this project, feel free to ⭐ the repository!
